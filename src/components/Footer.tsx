@@ -10,7 +10,7 @@ const Footer = () => {
           </Link>
         </p>
         <p className="text-[#999999] text-[13px] mt-1 font-light">
-          © 2025 CinePlay. Made with ❤ by the CinePlay team
+          © 2025 CinePlay. Made with ❤ by the DEVILxD5919
         </p>
       </div>
     </footer>
